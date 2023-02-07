@@ -1,0 +1,3 @@
+RUN THE APPLICATION USING THE COMMAND, 
+docker pull jithinjohny/websiteapp:latest
+docker run -itd -p 80:80 jithinjohny/websiteapp:latest
