@@ -1,4 +1,4 @@
 RUN THE APPLICATION USING THE COMMAND, 
 docker pull jithinjohny/websiteapp:latest
 docker run -itd -p 80:80 jithinjohny/websiteapp:latest
-copy and paste the public ip of the instance and you can see the webpage
+copy and paste the public ip of the control plane instance and you can see the webpage
